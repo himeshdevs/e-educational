@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/e-educational/static/css/main.a8b670a2.css",
+    "main.js": "/e-educational/static/js/main.0c2e1d4c.js",
+    "static/js/787.71f5ea7b.chunk.js": "/e-educational/static/js/787.71f5ea7b.chunk.js",
+    "static/media/React.png": "/e-educational/static/media/React.c6f0619642b9e8170a50.png",
+    "static/media/Python.jpg": "/e-educational/static/media/Python.d8fc2f85ee9265a582e9.jpg",
+    "static/media/php.jpg": "/e-educational/static/media/php.e6ad7f1b36b255974c89.jpg",
+    "index.html": "/e-educational/index.html",
+    "main.a8b670a2.css.map": "/e-educational/static/css/main.a8b670a2.css.map",
+    "main.0c2e1d4c.js.map": "/e-educational/static/js/main.0c2e1d4c.js.map",
+    "787.71f5ea7b.chunk.js.map": "/e-educational/static/js/787.71f5ea7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8b670a2.css",
+    "static/js/main.0c2e1d4c.js"
+  ]
+}
